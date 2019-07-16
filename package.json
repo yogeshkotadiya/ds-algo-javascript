@@ -1,0 +1,11 @@
+{
+  "name": "ds-algo-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yogeshkotadiya/ds-algo-javascript.git",
+  "author": "Yogesh Kotadiya <yogeshkotadiya007@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}
