@@ -2,6 +2,8 @@
 
 ---
 
+#### NOTE: This Repo is moved to [algorithms-and-data-structures](https://github.com/yogeshkotadiya/algorithms-and-data-structures) 
+
 ## Algorithms
 
     |
